@@ -1,0 +1,17 @@
+The Costing Process is Started 11/04/2023 12:42:53
+Furnace BOM started at 11/04/2023 12:43:07
+Packing BOM started at 11/04/2023 12:43:08
+Color Screening BOM started at 11/04/2023 12:43:10
+Color BOM started at 11/04/2023 12:43:10
+Coating BOM started at 11/04/2023 12:43:12
+Dispatch BOM started at 11/04/2023 12:43:12
+Labour BOM started at 11/04/2023 12:43:12
+Labour BOM started at 11/04/2023 12:43:12
+Overhead Calculations are started at 11/04/2023 12:43:14
+Final Calculations are started at 11/04/2023 12:43:51
+Item Master is writing to excel at 11/04/2023 12:43:52
+BOM are writing to excel at 11/04/2023 12:44:01
+Overheads are writing to excel at 11/04/2023 12:44:08
+Final Cost Sheet is writing to excel at 11/04/2023 12:44:10
+Exceptional Reports are writing to excel at 11/04/2023 12:44:11
+The Process is Completed Successfully at 11/04/2023 12:44:11
